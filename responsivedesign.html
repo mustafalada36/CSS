@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Responsive Design</title>
+	<style type="text/css">
+		*{
+			box-sizing: border-box;
+		}
+		.row{
+			width: 100%;
+		}
+		p{
+			padding: auto ;
+			border: 1px solid black;
+			background-color: darkred;
+			width: 90%;
+			height: 150px;
+			margin-left: auto;
+			margin-right: auto;
+			font-family: Helvetica;
+			color: white;
+		}
+		h1{
+			margin-bottom: 15px;
+		}
+		@media (min-width:1200px)
+		{
+			.ds-ld-1,.ds-ld-2,.ds-ld-3,.ds-ld-4,.ds-ld-5,.ds-ld-6,.ds-ld-7,.ds-ld-8,.ds-ld-9,.ds-ld-10,.ds-ld-11,.ds-ld-12{
+				float: left;
+				border: 1px solid green;
+			}
+			.ds-ld-1{
+				width: 8.33%;
+			}
+			.ds-ld-2{
+				width: 16.66%;
+			}
+			.ds-ld-3{
+				width: 25%;
+			}
+			.ds-ld-4{
+				width: 33.33%;
+			}
+			.ds-ld-5{
+				width: 41.66%;
+			}
+			.ds-ld-6{
+				width: 50%;
+			}
+			.ds-ld-7{
+				width: 58.33%;
+			}
+			.ds-ld-8{
+				width: 66.66%;
+			}
+			.ds-ld-9{
+				width: 75%;
+			}
+			.ds-ld-10{
+				width: 83.33%;
+			}
+			.ds-ld-11{
+				width: 91.66%;
+			}
+			.ds-ld-12{
+				width: 100%;
+			}
+		}
+			@media (min-width:995px) and (max-width:1199px) {
+			.ds-md-1,.ds-md-2,.ds-md-3,.ds-md-4,.ds-md-5,.ds-md-6,.ds-md-7,.ds-md-8,.ds-md-9,.ds-md-10,.ds-md-11,.ds-md-12{
+				float: left;
+				border: 1px solid green;
+			}
+			.ds-md-1{
+				width: 8.33%;
+			}
+			.ds-md-2{
+				width: 16.66%;
+			}
+			.ds-md-3{
+				width: 25%;
+			}
+			.ds-md-4{
+				width: 33.33%;
+			}
+			.ds-md-5{
+				width: 41.66%;
+			}
+			.ds-md-6{
+				width: 50%;
+			}
+			.ds-md-7{
+				width: 58.33%;
+			}
+			.ds-md-8{
+				width: 66.66%;
+			}
+			.ds-md-9{
+				width: 74.99%;
+			}
+			.ds-md-10{
+				width: 83.33%;
+			}
+			.ds-md-11{
+				width: 91.66%;
+			}
+			.ds-md-12{
+				width: 100%;
+			}
+
+
+
+		}
+	</style>
+</head>
+<body>
+	<h1>
+		Responsive Design
+	</h1>
+	<div class="row">
+		<div class="ds-ld-3 ds-md-6"> <p> Item 1</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 2 Wow this cool</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 3</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 4</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 5 This is Cool</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 6</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 7</p></div>
+		<div class="ds-ld-3 ds-md-6"> <p> Item 8</p></div>
+	</div>
+</body>
+</html>
