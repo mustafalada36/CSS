@@ -1,4 +1,5 @@
-This is All about CSS Important Concepts.
+This is All about CSS Important Concepts as basics.
 Concepts:
 <i> Media Queries
 <ii> Responsive Design
+<iii>
