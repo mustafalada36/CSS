@@ -1,5 +1,5 @@
 
-About this CSS repository->
+About this repository->
 
 This is All about CSS Important Concepts as basics.
 Concepts:
