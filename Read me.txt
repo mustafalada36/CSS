@@ -7,6 +7,6 @@ Concepts:
 <ii> Responsive Design
 <iii> Text styling
 <iv> BoxModel & Positioning
-(v) Grid
+<v> Grid
 
            ........
