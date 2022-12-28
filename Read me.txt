@@ -3,10 +3,10 @@ About this repository->
 
 This is All about CSS Important Concepts as basics.
 Concepts:
-<i> Media Queries
-<ii> Responsive Design
-<iii> Text styling
-<iv> BoxModel & Positioning
-<v> Grid
+<i> 	Media Queries
+<ii> 	Responsive Design
+<iii> 	Text styling
+<iv> 	BoxModel & Positioning
+<v> 	Grid
 
            ........
