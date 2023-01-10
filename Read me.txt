@@ -1,5 +1,5 @@
 
-About this repository->
+About 
 
 This is All about CSS Important Concepts as basics.
 Core Concepts are :
