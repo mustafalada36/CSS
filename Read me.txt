@@ -1,7 +1,7 @@
 
 About 
 
-All about CSS Important Concepts as basics.
+All about CSS Important Concepts (as basics).
 Core Concepts are :
 <i> 	Media Queries
 <ii> 	Responsive Design
