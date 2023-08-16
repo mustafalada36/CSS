@@ -1,5 +1,5 @@
 
-.box{
+/* .box{
     background-color: blue;
     border-radius: 5px;
     margin: 2px;
@@ -11,4 +11,19 @@
     flex-wrap: wrap;
     flex-direction:row;
     gap: 10px;
+} */
+
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: stretch;
+    background-color: brown;
+    
+}
+
+.container li {
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: large;
 }
